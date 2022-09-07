@@ -1,0 +1,10 @@
+{
+    "name": "File",
+    "version": "1.0.0",
+    "description": "A Node application",
+    "dependencies": {
+      "jest": "^28.1.1",
+      "typescript": "^4.5.5",
+      "webpack": "^2.7.0"
+    }
+  }
